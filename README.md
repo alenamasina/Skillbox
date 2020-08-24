@@ -1,2 +1,3 @@
-# Skillbox
-Coursework #1 on Pandas and Mathplotlib
+# Skillbox. Data Scientist.
+Coursework #1 
+Courses analysis using Pandas and Mathplotlib
